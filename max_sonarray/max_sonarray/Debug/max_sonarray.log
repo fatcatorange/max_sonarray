@@ -1,0 +1,3 @@
+﻿  max_sonarray.cpp
+C:\Users\jason\source\repos\max_sonarray\max_sonarray\max_sonarray.cpp(40,23): warning C4101: 'temp': 未參考的區域變數
+  max_sonarray.vcxproj -> C:\Users\jason\source\repos\max_sonarray\Debug\max_sonarray.exe
